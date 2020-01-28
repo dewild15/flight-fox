@@ -1,0 +1,149 @@
+html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.navbar {
+  font-family: 'Syncopate', sans-serif;
+  text-align: center;
+  position: absolute;
+  z-index: +1;
+  background-color: #fff;
+  padding: 3%;
+  background-color: #ecfcff;
+}
+
+.nav-link {
+  margin: 0 20px;
+}
+
+.nav-link, .flight-fox-name, .fa-bars {
+  color: #ec9b3b;
+  text-align: center;
+}
+
+.nav-link:hover, .flight-fox-name:hover, .fa-bars:hover {
+  color: #3fc5f0;
+}
+
+.flight-fox-navbar {
+  margin: 0 20px;
+}
+
+.wanderlust-div {
+  margin-top: -110px;
+}
+
+.wanderlust {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Liu Jian Mao Cao', cursive;
+  color: #fff;
+  font-size: 4.6rem;
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.join-button {
+  color: #ec9b3b;
+  background-color: #b2fcff;
+  font-size: 1.6rem;
+  border-radius: 100px;
+  font-family: 'Syncopate', sans-serif;
+  padding: 18px 10px;
+  top: 50%;
+  border: 0px;
+  margin-top: 10px;
+}
+
+.join-button:hover {
+  background-color: #ec9b3b;
+  color: #b2fcff;
+}
+
+.savers {
+  padding: 20px;
+  background-color: #ecfcff;
+}
+
+.save-head {
+  font-family: 'Liu Jian Mao Cao', cursive;
+  text-align: center;
+  font-size: 3.6rem;
+  margin: 10px 10% 40px 10%;
+}
+
+.col-lg-4 {
+  text-align: center;
+  font-size: 1rem;
+  font-family: 'Syncopate', sans-serif;
+  line-height: 1.5;
+}
+
+.air-love {
+  max-width: 50%;
+  margin-bottom: 15px;
+}
+
+.dollars {
+  max-width: 44.8%;
+  margin-bottom: 15px;
+}
+
+.worker {
+  max-width: 36.5%;
+  margin-bottom: 15px;
+}
+
+.recents {
+  text-align: center;
+  font-family: 'Syncopate', sans-serif;
+  background-color: #ecfcff;
+  padding: 10px 0px;
+}
+
+.madrid, .trinidad, .dublin, .athens {
+  max-width: 70%;
+  line-height: 1.5;
+}
+
+.info {
+  margin: 10px 20px;
+  font-size: 17px;
+}
+
+.deals {
+  font-family: 'Liu Jian Mao Cao', cursive;
+  font-size: 3.6rem;
+}
+
+.footer {
+  color: #ec9b3b;
+  padding: 2%;
+  text-align: center;
+  font-family: 'Syncopate', sans-serif;
+  background-color: #ecfcff;
+}
+
+.social-bar {
+  padding-left: 35%;
+}
+
+.socials {
+  text-align: center;
+  max-width: 70px;
+  max-height: none;
+  margin: 1% 2%;
+}
